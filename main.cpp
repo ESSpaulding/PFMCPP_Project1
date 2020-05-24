@@ -131,7 +131,14 @@ tapeMachine.play();
 tapeMachine.record();
 //  action 3:  the tape machine can be set to always rewind to a position
 tapeMachine.rewindToPosition(); 
-
+//  10)
+//  noun:saladShooter
+//  action 1: the salad shooter slices cucumbers
+saladShooter.sliceCucumber();
+//  action 2: the salad shooter dices carrots
+saladShooter.diceCarrots();
+//  action 3: the salad shooter self cleans
+saladShooter.selfClean();
 
 #endif
 
