@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:  knife
+//  action 1:  the knife cuts
+knife.cut();
+//  action 2:  the knife carves
+knife.carve();
+//  action 3:  the knife engraves owners initials
+knife.engraveOwnersInitials();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2:  the dog runs
+dog.run();
+//  action 3:  the dog humps the leg
+dog.humpLeg(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:guitar
+//  action 1:  fret the string on the guitar
+guitar.fretString();
+//  action 2:  pluck the string of the guitar
+guitar.pluckString();
+//  action 3:  mute the string of the guitar
+guitar.muteString();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:camera
+//  action 1:  the camera takes a picture
+camera.takePicture();
+//  action 2:  the camera takes a video
+camera.takeVideo();
+//  action 3:  the camera enables the flash
+camera.enableFLash(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:monkey
+//  action 1:  the monkey covers it's eyes
+monkey.seeNoEvil();
+//  action 2:  the monkey covers it's ears
+monkey.hearNoEvil();
+//  action 3:  the monkey covers it's mouth
+monkey.speakNoEvil(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:car
+//  action 1:  the car accelerates
+car.accelerate();
+//  action 2:  the car decelerates
+car.decelerate();
+//  action 3:  the car turns
+car.turn(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:hammer
+//  action 1:  the hammer pounds
+hammer.pound();
+//  action 2:  the hammer pulls
+hammer.pull();
+//  action 3:  the hammer will smash yout finger if you are not careful
+hammer.smashYourFinger(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:screwdriver
+//  action 1:  the screwdriver tightens
+screwdriver.tighten();
+//  action 2:  the screwdriver loosens
+screwdriver.loosen();
+//  action 3:  the screwdriver prys
+screwdriver.pry(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  noun:saladShooter
+//  action 1: the salad shooter slices cucumbers
+saladShooter.sliceCucumber();
+//  action 2: the salad shooter dices carrots
+saladShooter.diceCarrots();
+//  action 3: the salad shooter self cleans
+saladShooter.selfClean();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:tapeMachine
+//  action 1:  the tape machine plays
+tapeMachine.play();
+//  action 2:  the tape machine records
+tapeMachine.record();
+//  action 3:  the tape machine can be set to always rewind to a position
+tapeMachine.rewindToPosition(); 
 
 
 #endif
