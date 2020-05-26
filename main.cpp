@@ -116,13 +116,13 @@ screwdriver.loosen();
 //  action 3:  the screwdriver prys
 screwdriver.pry(); 
 //  9)
-//  Noun:pencil
-//  action 1:  the pencil writes 
-pencil.write();
-//  action 2:  the pencil draws
-pencil.draw();
-//  action 3:  the pencil traces outlines
-pencil.traceOutline(); 
+//  noun:saladShooter
+//  action 1: the salad shooter slices cucumbers
+saladShooter.sliceCucumber();
+//  action 2: the salad shooter dices carrots
+saladShooter.diceCarrots();
+//  action 3: the salad shooter self cleans
+saladShooter.selfClean();
 //  10)
 //  Noun:tapeMachine
 //  action 1:  the tape machine plays
@@ -131,14 +131,7 @@ tapeMachine.play();
 tapeMachine.record();
 //  action 3:  the tape machine can be set to always rewind to a position
 tapeMachine.rewindToPosition(); 
-//  11)
-//  noun:saladShooter
-//  action 1: the salad shooter slices cucumbers
-saladShooter.sliceCucumber();
-//  action 2: the salad shooter dices carrots
-saladShooter.diceCarrots();
-//  action 3: the salad shooter self cleans
-saladShooter.selfClean();
+
 
 #endif
 
